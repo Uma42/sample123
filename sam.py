@@ -1,2 +1,1 @@
 second file
-new line
